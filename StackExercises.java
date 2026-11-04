@@ -1,7 +1,3 @@
-
-
-
-
 // Exercise: Stack Operations
 // Learn how to use the Stack data structure - Last In, First Out (LIFO).
 
